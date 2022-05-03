@@ -1,0 +1,3 @@
+services:
+  dev:
+    image: ghcr.io/wayflyer/devcontainer:jammy-dev
