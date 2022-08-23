@@ -1,5 +1,5 @@
 {
-	"dockerComposeFile": "docker-compose.yml",
+	"dockerComposeFile": [],
 	"initializeCommand": "echo ${localEnv:GITHUB_TOKEN} | docker login ghcr.io -u ${localEnv:GITHUB_ACTOR} --password-stdin && docker-compose pull",
 	"service": "dev",
 	"workspaceFolder": "/workspace",
