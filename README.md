@@ -1,3 +1,3 @@
-# Dotfiles Starter Project
+# Template repository for Dev 2.0 ✨ dotfiles
 
-Fork this project to start developing your dotfiles
+Use this template to start developing your dotfiles.
