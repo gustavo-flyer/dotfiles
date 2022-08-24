@@ -2,7 +2,7 @@
 
 Use this template to start developing your dotfiles. 💪
 
-Create the new repo in your GitHub user account as `your-username/dotfiles`.
+Create the new repo in your GitHub user account as `your-username/dotfiles`. Once created, follow the [dotfiles guide for your IDE](https://docs.wayflyer.io/wf-devcontainer/latest/ide.html).
 
 ## Customizing your devcontainer
 
