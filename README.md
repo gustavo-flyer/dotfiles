@@ -28,9 +28,9 @@ After making changes to `~/.zprofile`, it's worth restarting your computer to en
 
 Once configured, on any future launch of a devcontainer your repo will be cloned into the container and the contents of `dotfiles` will be symlinked into the `$HOME` directory.
 
-Customize your environment easily with:
+Customize your container easily by:
 
-- Add new scripts to `dotfiles/.local/bin`.
-- Add other dotfiles and dotdirs (e.g. `.zshrc`) to `dotfiles/`.
+- Adding new scripts to `dotfiles/.local/bin`.
+- Adding other dotfiles and dotdirs (e.g. `.zshrc`) to `dotfiles/`.
 
 More advanced customizations are possible by editing the `install` script to change or extend the installation behavior.
