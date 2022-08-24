@@ -26,7 +26,7 @@ After making changes to `~/.zprofile`, it's worth restarting your computer to en
 
 ## Customizing your devcontainer
 
-Once configured, on any future launch or build of a devcontainer your repo will be cloned into the container and the contents of `dotfiles` will be symlinked into the `$HOME` directory.
+Once configured, on any future launch of a devcontainer your repo will be cloned into the container and the contents of `dotfiles` will be symlinked into the `$HOME` directory.
 
 Customize your environment easily with:
 
