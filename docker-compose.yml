@@ -1,6 +1,6 @@
 services:
   dev:
-    image: ghcr.io/wayflyer/devcontainer:lunar-dev
+    image: ghcr.io/wayflyer/devcontainer:mantic-dev
     volumes:
       - wf-state:/opt/wf-state
 volumes:
