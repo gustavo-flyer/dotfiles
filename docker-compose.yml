@@ -1,6 +1,6 @@
 services:
   dev:
-    image: ghcr.io/wayflyer/devcontainer:noble-3.11-dev
+    image: ghcr.io/wayflyer/devcontainer:noble-3.12-dev
     volumes:
       - wf-state:/opt/wf-state
 volumes:
